@@ -2,13 +2,13 @@
 
 [All job listings](https://github.com/noah-42/job-listings)
 
-Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/openapi.json), newest first. Company names, websites, pay, language and requirements come from Jobscout records only; logos come from the Favicon Hub or the exact asset URL in the Jobscout company record. Nothing is patched from external sites - source gaps are marked ⛳️ for an upstream fix.
+Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/openapi.json), newest first. Company names, websites, pay, language and requirements come from Jobscout records only; logos come from the Favicon Hub or the exact asset URL in the Jobscout company record. Nothing is patched from external sites - unfinished logo checks say Pending. ⛳️ is allowed only after both Jobscout image assets and Favicon Hub fail to supply working bytes.
 
 | Page | Listings |
 | :--- | ---: |
-| [Berlin](berlin.md) | 19 |
-| [Remote in Europe](europe.md) | 66 display rows / 127 source records |
-| [Remote in the USA](usa.md) | 79 |
+| [Berlin](berlin.md) | 15 |
+| [Remote in Europe](europe.md) | 46 display rows / 107 recent source records |
+| [Remote in the USA](usa.md) | 68 |
 
 - [Discovery catalogue](discovery.md) - queries, coverage and screening rules
 - [Source notes](sources.md) - per-listing source and language-assumption notes
