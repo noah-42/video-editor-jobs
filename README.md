@@ -7,7 +7,7 @@ Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/op
 | Page | Listings |
 | :--- | ---: |
 | [Berlin](berlin.md) | 19 |
-| [Remote in Europe](europe.md) | 127 |
+| [Remote in Europe](europe.md) | 66 display rows / 127 source records |
 | [Remote in the USA](usa.md) | 79 |
 
 - [Discovery catalogue](discovery.md) - queries, coverage and screening rules
@@ -15,3 +15,5 @@ Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/op
 - Exports: [CSV](data/jobs.csv) · [JSON](data/jobs.json) (ISO dates, raw API period values)
 
 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Some Berlin remote roles also appear on the Europe page.
+
+All lists are ordered by actual posting date, newest first; unknown dates last. Logo width is fixed at 90px, with aspect ratio preserved. Europe groups five approved repeated country campaigns; every country link and all source records remain available.
