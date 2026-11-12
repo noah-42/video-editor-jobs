@@ -17,3 +17,9 @@ Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/op
 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Some Berlin remote roles also appear on the Europe page.
 
 All lists are ordered by actual posting date, newest first; unknown dates last. Logo width is fixed at 90px, with aspect ratio preserved. Europe groups five approved repeated country campaigns; every country link and all source records remain available.
+
+## Current GitHub window
+
+Only confirmed posting dates from 2026-05-12 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
+
+Current visible page counts: berlin.md: 15, europe.md: 46, usa.md: 68.
