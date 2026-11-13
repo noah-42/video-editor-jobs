@@ -2,7 +2,7 @@
 
 [All job listings](https://github.com/noah-42/job-listings) · [Video editor directory](README.md) · [Discovery catalogue](discovery.md) · [CSV](data/jobs.csv) · [JSON](data/jobs.json)
 
-Current GitHub window: posting dates 2026-05-12 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fit within 60x60px, aspect ratio preserved.
+Current GitHub window: posting dates 2026-05-13 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fit within 60x60px, aspect ratio preserved.
 
 46 display rows from 107 recent source records, newest first. Remote roles open in Europe. Country scope and residency notes come from the Jobscout record; unconfirmed eligibility is labeled. 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Pending means the complete Jobscout-image and Favicon Hub checks are not established.
 
