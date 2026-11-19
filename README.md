@@ -20,6 +20,6 @@ All lists are ordered by actual posting date, newest first; unknown dates last. 
 
 ## Current GitHub window
 
-Only confirmed posting dates from 2026-05-18 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
+Only confirmed posting dates from 2026-05-19 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
 
 Current visible page counts: berlin.md: 15, europe.md: 46, usa.md: 67.
