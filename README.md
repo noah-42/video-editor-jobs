@@ -8,7 +8,7 @@ Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/op
 | :--- | ---: |
 | [Berlin](berlin.md) | 15 |
 | [Remote in Europe](europe.md) | 46 display rows / 107 recent source records |
-| [Remote in the USA](usa.md) | 67 |
+| [Remote in the USA](usa.md) | 66 |
 
 - [Discovery catalogue](discovery.md) - queries, coverage and screening rules
 - [Source notes](sources.md) - per-listing source and language-assumption notes
@@ -20,6 +20,6 @@ All lists are ordered by actual posting date, newest first; unknown dates last. 
 
 ## Current GitHub window
 
-Only confirmed posting dates from 2026-05-21 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
+Only confirmed posting dates from 2026-05-22 onward appear in the lists and current CSV/JSON exports. This is a rolling six-calendar-month window. Older and unknown dates are excluded from the visible lists; [full source archive](archive-all-records.json) preserves every record. No source database records changed.
 
-Current visible page counts: berlin.md: 15, europe.md: 46, usa.md: 67.
+Current visible page counts: berlin.md: 15, europe.md: 46, usa.md: 66.
