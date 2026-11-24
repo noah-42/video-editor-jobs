@@ -2,7 +2,7 @@
 
 [All job listings](https://github.com/noah-42/job-listings)
 
-Video editor roles from the [Jobscout API](https://api.noah42.com/jobscout/v1/openapi.json), newest first. Company names, websites, pay, language and requirements come from Jobscout records only; logos come from the Favicon Hub or the exact asset URL in the Jobscout company record. Nothing is patched from external sites - unfinished logo checks say Pending. ⛳️ is allowed only after both Jobscout image assets and Favicon Hub fail to supply working bytes.
+Video editor roles from the [Teleport API](https://api.noah42.com/jobscout/v1/openapi.json), newest first. Company names, websites, pay, language and requirements come from Teleport records only; logos come from the Favicon Hub or the exact asset URL in the Teleport company record. Nothing is patched from external sites - unfinished logo checks say Pending. ⛳️ is allowed only after both Teleport image assets and Favicon Hub fail to supply working bytes.
 
 | Page | Listings |
 | :--- | ---: |
