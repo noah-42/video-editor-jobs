@@ -4,7 +4,7 @@
 
 Current GitHub window: posting dates 2026-05-24 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fit within 60x60px, aspect ratio preserved.
 
-66 listings, newest first. Remote roles in the United States. Travel and residency restrictions are shown where the source states them. 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Pending means the complete Jobscout-image and Favicon Hub checks are not established.
+66 listings, newest first. Remote roles in the United States. Travel and residency restrictions are shown where the source states them. 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Pending means the complete Teleport-image and Favicon Hub checks are not established.
 
 | Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Title | Posted (2026; older years labeled) | Location | Pay range | Language | Requirements |
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
