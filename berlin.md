@@ -4,7 +4,7 @@
 
 Current GitHub window: posting dates 2026-05-24 onward (rolling six calendar months). Older and unknown-date records are excluded from this visible list and current exports. [Full source archive](archive-all-records.json) retains all records; no source database records were changed. Logos: fit within 60x60px, aspect ratio preserved.
 
-15 listings, newest first. Berlin roles (on-site, hybrid and remote based in Berlin). 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Pending means the complete Jobscout-image and Favicon Hub checks are not established.
+15 listings, newest first. Berlin roles (on-site, hybrid and remote based in Berlin). 🇬🇧 English sufficient · 🇩🇪 German required · Unclear: not confirmed. Pending means the complete Teleport-image and Favicon Hub checks are not established.
 
 | Logo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Company | Title | Posted (2026; older years labeled) | Location | Pay range | Language | Requirements |
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
