@@ -1,6 +1,6 @@
 # Discovery catalogue
 
-Generated 2026-11-12 from the Jobscout API (active listings only). All pages were paginated to exhaustion (`next_before_id` cursor; no page left unfetched).
+Generated 2026-11-12 from the Teleport API (active listings only). All pages were paginated to exhaustion (`next_before_id` cursor; no page left unfetched).
 
 ## Title queries (all paginated, deduplicated by job ID)
 
@@ -23,5 +23,5 @@ Generated 2026-11-12 from the Jobscout API (active listings only). All pages wer
 - Berlin: `location_city` Berlin or location text contains Berlin.
 - USA: country United States and `work_arrangement` remote.
 - Europe: `work_arrangement` remote and (European country, or geographic scope europe/emea/eu/worldwide/global, or location text like "Remote Europe"). LatAm-only and Southeast-Asia-only remote listings excluded.
-- "Discovery candidates" are everything above; no eligibility claims beyond what each Jobscout record states. Residency, travel and scope notes are shown per row where the record supplies them.
+- "Discovery candidates" are everything above; no eligibility claims beyond what each Teleport record states. Residency, travel and scope notes are shown per row where the record supplies them.
 - Jobgether rows are anonymized "partner company" listings in the source itself; the hiring employer is not named in the API data.
